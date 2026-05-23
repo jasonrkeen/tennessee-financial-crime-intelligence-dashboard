@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE / editor
+.vscode/
+.idea/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Raw and processed data
+data/raw/
+data/processed/
+
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Generated outputs
+outputs/charts/
+outputs/tables/
+outputs/reports/
+
+!outputs/charts/.gitkeep
+!outputs/tables/.gitkeep
+!outputs/reports/.gitkeep
+
+# Logs / temp
+*.log
+*.tmp
+*.bak
+~$*
