@@ -452,4 +452,4 @@ Tennessee Financial Crime Intelligence Dashboard, prepared by Jason Keen, using 
 ## Author
 
 Prepared by Jason Keen  
-Email: keenjasonr@gmail.com
+[LinkedIn](https://www.linkedin.com/in/jason-keen-1887b4218)
